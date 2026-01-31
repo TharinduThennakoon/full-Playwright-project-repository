@@ -1,0 +1,13 @@
+{
+  "name": "itpm-assignment-playwright",
+  "version": "1.0.0",
+  "description": "Playwright POM Assignment for SwiftTranslator",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
